@@ -37,7 +37,7 @@ By the end of this week, you will be able to:
 
 ## Session Notebook Materials
 
-### [1_InferenceAndCausality_Week3_ObservationVsInterversion.ipynb](./1_InferenceAndCausality_Week3_ObservationVsInterversion.ipynb)
+### [1_InferenceAndCausality_Week3_ObservationVsInterversion.ipynb](notebooks/1_InferenceAndCausality_Week3_ObservationVsInterversion.ipynb)
 Hands-on simulation notebook illustrating:
 - Pearl’s **firing squad** scenario  
 - Computing `P(D | SA=0)` vs `P(D | do(SA=0))`  
@@ -46,7 +46,7 @@ Hands-on simulation notebook illustrating:
 
 ---
 
-### [2_InferenceAndCausality_Week3_ConditionalIndependence.ipynb](./2_InferenceAndCausality_Week3_ConditionalIndependence.ipynb)
+### [notebooks/2_InferenceAndCausality_Week3_ConditionalIndependence.ipynb](notebooks/2_InferenceAndCausality_Week3_ConditionalIndependence.ipynb)
 Interactive examples of:
 - **Chain (A → B → C)** — conditioning *blocks* transmission  
 - **Fork (A ← U → C)** — conditioning *removes* confounding  
@@ -55,7 +55,7 @@ Interactive examples of:
 
 ---
 
-### [3_InferenceAndCausality_Week3_ProxyData.ipynb](./3_InferenceAndCausality_Week3_ProxyData.ipynb)
+### [notebooks/3_InferenceAndCausality_Week3_ProxyData.ipynb](notebooks/3_InferenceAndCausality_Week3_ProxyData.ipynb)
 Simulating **unobserved confounding** and **proxy adjustment**:
 - `U` = true exposure (unobserved)  
 - `X` = self-reported smoking (noisy)  
